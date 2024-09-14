@@ -1,1 +1,6 @@
-Eny thing You want to raed 
+Branch Commands 
+git branch (to check branch)
+git branch -M main (to rename branch)
+gir checkout <- branch name > (to navigate)
+git checkout -b <-new branch name -> (to create new branch)
+gir branch -d <-branch name_>(to delete branch )
